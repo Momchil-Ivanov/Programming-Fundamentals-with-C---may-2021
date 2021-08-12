@@ -1,0 +1,67 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Momchil\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\UNI\\РАБОТА 2020-2021\\Програмиране C#\\Programming Fundamentals with C# - май 2021\\12. Exercise Arrays\\Problems\\M04. Fold and Sum\\M04. Fold and Sum.csproj",
+      "projectName": "M04. Fold and Sum",
+      "projectPath": "F:\\UNI\\РАБОТА 2020-2021\\Програмиране C#\\Programming Fundamentals with C# - май 2021\\12. Exercise Arrays\\Problems\\M04. Fold and Sum\\M04. Fold and Sum.csproj",
+      "packagesPath": "C:\\Users\\Momchil\\.nuget\\packages\\",
+      "outputPath": "F:\\UNI\\РАБОТА 2020-2021\\Програмиране C#\\Programming Fundamentals with C# - май 2021\\12. Exercise Arrays\\Problems\\M04. Fold and Sum\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Momchil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
