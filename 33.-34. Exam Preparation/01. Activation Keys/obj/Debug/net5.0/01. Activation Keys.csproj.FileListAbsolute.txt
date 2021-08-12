@@ -1,0 +1,16 @@
+F:\UNI\РАБОТА 2020-2021\Програмиране C#\Programming Fundamentals with C# - май 2021\33.-34. Exam Preparation\Problems\01. Activation Keys\bin\Debug\net5.0\01. Activation Keys.exe
+F:\UNI\РАБОТА 2020-2021\Програмиране C#\Programming Fundamentals with C# - май 2021\33.-34. Exam Preparation\Problems\01. Activation Keys\bin\Debug\net5.0\01. Activation Keys.deps.json
+F:\UNI\РАБОТА 2020-2021\Програмиране C#\Programming Fundamentals with C# - май 2021\33.-34. Exam Preparation\Problems\01. Activation Keys\bin\Debug\net5.0\01. Activation Keys.runtimeconfig.json
+F:\UNI\РАБОТА 2020-2021\Програмиране C#\Programming Fundamentals with C# - май 2021\33.-34. Exam Preparation\Problems\01. Activation Keys\bin\Debug\net5.0\01. Activation Keys.runtimeconfig.dev.json
+F:\UNI\РАБОТА 2020-2021\Програмиране C#\Programming Fundamentals with C# - май 2021\33.-34. Exam Preparation\Problems\01. Activation Keys\bin\Debug\net5.0\01. Activation Keys.dll
+F:\UNI\РАБОТА 2020-2021\Програмиране C#\Programming Fundamentals with C# - май 2021\33.-34. Exam Preparation\Problems\01. Activation Keys\bin\Debug\net5.0\ref\01. Activation Keys.dll
+F:\UNI\РАБОТА 2020-2021\Програмиране C#\Programming Fundamentals with C# - май 2021\33.-34. Exam Preparation\Problems\01. Activation Keys\bin\Debug\net5.0\01. Activation Keys.pdb
+F:\UNI\РАБОТА 2020-2021\Програмиране C#\Programming Fundamentals with C# - май 2021\33.-34. Exam Preparation\Problems\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.csproj.AssemblyReference.cache
+F:\UNI\РАБОТА 2020-2021\Програмиране C#\Programming Fundamentals with C# - май 2021\33.-34. Exam Preparation\Problems\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.GeneratedMSBuildEditorConfig.editorconfig
+F:\UNI\РАБОТА 2020-2021\Програмиране C#\Programming Fundamentals with C# - май 2021\33.-34. Exam Preparation\Problems\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.AssemblyInfoInputs.cache
+F:\UNI\РАБОТА 2020-2021\Програмиране C#\Programming Fundamentals with C# - май 2021\33.-34. Exam Preparation\Problems\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.AssemblyInfo.cs
+F:\UNI\РАБОТА 2020-2021\Програмиране C#\Programming Fundamentals with C# - май 2021\33.-34. Exam Preparation\Problems\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.csproj.CoreCompileInputs.cache
+F:\UNI\РАБОТА 2020-2021\Програмиране C#\Programming Fundamentals with C# - май 2021\33.-34. Exam Preparation\Problems\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.dll
+F:\UNI\РАБОТА 2020-2021\Програмиране C#\Programming Fundamentals with C# - май 2021\33.-34. Exam Preparation\Problems\01. Activation Keys\obj\Debug\net5.0\ref\01. Activation Keys.dll
+F:\UNI\РАБОТА 2020-2021\Програмиране C#\Programming Fundamentals with C# - май 2021\33.-34. Exam Preparation\Problems\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.pdb
+F:\UNI\РАБОТА 2020-2021\Програмиране C#\Programming Fundamentals with C# - май 2021\33.-34. Exam Preparation\Problems\01. Activation Keys\obj\Debug\net5.0\01. Activation Keys.genruntimeconfig.cache
